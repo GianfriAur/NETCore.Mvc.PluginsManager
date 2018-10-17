@@ -1,0 +1,13 @@
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager\bin\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.deps.json
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager\bin\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.runtimeconfig.json
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager\bin\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.runtimeconfig.dev.json
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager\bin\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.dll
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager\bin\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.pdb
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager\obj\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.csproj.CoreCompileInputs.cache
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager\obj\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.RazorAssemblyInfo.cache
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager\obj\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.RazorAssemblyInfo.cs
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager\obj\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.AssemblyInfoInputs.cache
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager\obj\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.AssemblyInfo.cs
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager\obj\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.RazorTargetAssemblyInfo.cache
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager\obj\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.dll
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager\obj\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.pdb

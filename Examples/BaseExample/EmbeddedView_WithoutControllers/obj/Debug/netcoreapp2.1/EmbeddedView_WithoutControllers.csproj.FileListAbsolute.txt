@@ -1,0 +1,16 @@
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\obj\Debug\netcoreapp2.1\EmbeddedView_WithoutControllers.csprojAssemblyReference.cache
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\obj\Debug\netcoreapp2.1\EmbeddedView_WithoutControllers.csproj.CoreCompileInputs.cache
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\obj\Debug\netcoreapp2.1\EmbeddedView_WithoutControllers.RazorAssemblyInfo.cache
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\obj\Debug\netcoreapp2.1\EmbeddedView_WithoutControllers.RazorAssemblyInfo.cs
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\obj\Debug\netcoreapp2.1\EmbeddedView_WithoutControllers.AssemblyInfoInputs.cache
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\obj\Debug\netcoreapp2.1\EmbeddedView_WithoutControllers.AssemblyInfo.cs
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\bin\Debug\netcoreapp2.1\EmbeddedView_WithoutControllers.deps.json
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\bin\Debug\netcoreapp2.1\EmbeddedView_WithoutControllers.runtimeconfig.json
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\bin\Debug\netcoreapp2.1\EmbeddedView_WithoutControllers.runtimeconfig.dev.json
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\bin\Debug\netcoreapp2.1\EmbeddedView_WithoutControllers.dll
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\bin\Debug\netcoreapp2.1\EmbeddedView_WithoutControllers.pdb
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\bin\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.dll
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\bin\Debug\netcoreapp2.1\AUR.NETCore.Mvc.PluginsManager.pdb
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\obj\Debug\netcoreapp2.1\EmbeddedView_WithoutControllers.csproj.CopyComplete
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\obj\Debug\netcoreapp2.1\EmbeddedView_WithoutControllers.dll
+C:\Users\gianf\source\repos\AUR.NETCore.Mvc.PluginsManager\EmbeddedView_WithoutControllers\obj\Debug\netcoreapp2.1\EmbeddedView_WithoutControllers.pdb

@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>AUR.NETCore.Mvc.PluginsManager.BaseExample</AssemblyName>
+    <RootNamespace>AUR.NETCore.Mvc.PluginsManager.BaseExample</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Plugins\*.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Plugins\*.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager.csproj" />
+  </ItemGroup>
+
+</Project>

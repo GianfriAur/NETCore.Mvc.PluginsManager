@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
+    <RazorCompileOnBuild>false</RazorCompileOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\EVWC.cshtml" />
+    <Content Remove="Views\EVWCFolder\EVWC.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Views\EVWC.cshtml" />
+    <EmbeddedResource Include="Views\EVWCFolder\EVWC.cshtml">
+      <Pack>$(IncludeRazorContentInPack)</Pack>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\AUR.NETCore.Mvc.PluginsManager\AUR.NETCore.Mvc.PluginsManager.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+</Project>
