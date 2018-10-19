@@ -4,6 +4,12 @@ this library allows to have and manage plugins in the .netCore mvc projects. it 
 
 use it is easy and comfortable look below for details
 
+## installation from nuget
+
+> PM>Install-Package AUR.NETCore.Mvc.PluginsManager -Version 1.0.0
+
+or from [nuget page](https://www.nuget.org/packages/AUR.NETCore.Mvc.PluginsManager/)
+
 ### how to start
 
 ```c#
