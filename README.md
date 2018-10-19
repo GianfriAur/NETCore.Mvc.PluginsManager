@@ -21,7 +21,13 @@ PluginsManager PM = new PluginsManager<interfaces.IPluginBase>("absolutePath of 
 ```c#
 const string PluginFolder = "Plugins";
 static PluginsManager<interfaces.IPluginBase> _Plugins;
-public static PluginsManager<interfaces.IPluginBase> Plugins { get { if (_Plugins == null) _Plugins = new PluginsManager<interfaces.IPluginBase>(Path.Combine(AppContext.BaseDirectory, PluginFolder)); return _Plugins; } }
+public static PluginsManager<interfaces.IPluginBase> Plugins { 
+    get { 
+        if (_Plugins == null) 
+            _Plugins = new PluginsManager<interfaces.IPluginBase>(Path.Combine(AppContext.BaseDirectory, PluginFolder)); 
+        return _Plugins; 
+    }
+}
 ```
 
 #### Load
